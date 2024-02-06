@@ -32,7 +32,7 @@
 @media (max-width: 700px) {
   .container {
     grid-template-areas:
-      "s h h h"
+      "h h h h"
       "s m m m"
       "s f f f";
   }
